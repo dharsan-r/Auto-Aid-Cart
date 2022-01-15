@@ -6,7 +6,7 @@
 
 ### <p align="center"> The Auto Aid Cart is an autonomous self-driving medicine cart prototype developed using C++ and built utilizing; Arduino, ultrasonic sensors, photoresistors, and servo motors.</p>
 
-<p align="center"> It features two modes for easy usability and access. The first mode allows  you to control the cart manually via the D-PAD controls on your android smartphone. The second mode makes the cart autonomous  letting it go to different rooms by its self.</p>
+<p align="center"> The AAC was designed to automate the transport of medicne throughout a hospital to lessen the strain on nurses. The first mode allows you to control the cart manually via the D-PAD controls on your android smartphone. The second mode makes the cart autonomous  letting it go to different rooms by its self.</p>
 
 
 ### <h1 align="center"> Design 🔨</h1>
