@@ -1,7 +1,10 @@
 <p align="center"> 
 <img width="180" height="96" src="Images/aac.png">
 </p>
-
+<br>
+<br>
+<br>
+<br>
 <h1 align="center">The Auto Aid Cart🩺</h1>
 
 ### <p align="center"> The Auto Aid Cart is an autonomous self-driving medicine cart prototype developed using C++ and built utilizing; Arduino, ultrasonic sensors, photoresistors, and servo motors.</p>
